@@ -51,7 +51,10 @@ Emailaddress VARCHAR(255) NOT NULL,
 Firstname VARCHAR(255) NOT NULL,
 Lastname  varchar(255) NOT NULL,
 PRIMARY KEY(Emailaddress));
-2) CREATE TABLE PAPER(
+```
+
+```sh
+CREATE TABLE PAPER(
 paperid INT(3) unsigned NOT NULL,
 title  VARCHAR(255),
 abstract  VARCHAR(255),
