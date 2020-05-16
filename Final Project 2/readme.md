@@ -7,10 +7,10 @@ sudo snap install --classic eclipse
 ```
 
 - After installation type “eclipse” In the command line and run it or search in the menu.
-![Image1](https://octodex.github.com/images/yaktocat.png)
+![Image1](https://github.com/yashwanthvarre/dbms/tree/master/Final%20Project%202/assets/image1.png)
 
 - Select the workspace where you want to store the code.
-![Image2](https://octodex.github.com/images/yaktocat.png)
+![Image2](https://github.com/yashwanthvarre/dbms/tree/master/Final%20Project%202/assets/image2.png)
 
 
 - Click on launch and start your new java project.
